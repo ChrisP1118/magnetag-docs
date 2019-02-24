@@ -1,5 +1,3 @@
-# MagneTag Documentation
-
 This is the main documentation for the MagneTag Hub system.
 
 ## Getting Started
