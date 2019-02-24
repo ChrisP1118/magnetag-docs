@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# MagneTag Documentation
+
+This is the main documentation for the MagneTag Hub system.
 
 You can use the [editor on GitHub](https://github.com/ChrisP1118/magnetag-docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
