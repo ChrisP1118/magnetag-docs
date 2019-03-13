@@ -21,6 +21,8 @@ Basic overview:
 * Components
 
 Unsorted:
+* External displays
+* Connecting multiple stations to single Hub
 * Managing your PC
 * Kiosk Shell
   * Exiting the shell
