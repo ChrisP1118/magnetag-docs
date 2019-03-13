@@ -1,6 +1,6 @@
 This is the main documentation for the MagneTag Hub system.
 
-## Getting Started
+## [Getting Started](getting-started.md)
 
 Get your MagneTag Hub up and running.
 
