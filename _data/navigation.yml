@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: /magnetag-docs/
+    url: /
   - title: "Getting Started"
-    url: /magnetag-docs/getting-started
+    url: /getting-started
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
