@@ -1,11 +1,11 @@
 This is the main documentation for the MagneTag Hub system.
 
 * Getting Started
-** Your Package
-** One-Time Setup
+  * Your Package
+  * One-Time Setup
 * Components
-** Overview
-** Networking Configuration
+  * Overview
+  * Networking Configuration
 
 ## [Getting Started](getting-started.md)
 
