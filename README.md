@@ -10,31 +10,35 @@ Basic overview:
 * Managing the MagneTag Hub software
   * Modes/controllers overview
     * Device assignments
+    * Managing users
+    * Managing multiple stations (each with own controller/devices)
   * Kiosk mode
   * FEC mode
   * Admin mode
   * Tournament mode
 * Managing your PC
+  * Hub Shell
+    * Exiting
+    * Rebooting
   * Logging in as admin
+  * Managing certificates
+  * Managing firewall settings
 * Managing your MagneTag devices
-
-* Components
-
-Unsorted:
-* External displays
-* Connecting multiple stations to single Hub
-* Managing your PC
-* Kiosk Shell
-  * Exiting the shell
-  * Safely rebooting
-* Admin mode
-  * Managing devices
-  * Configuring controllers, defaults
-  * Managing users?
-* Devices
-  * Configuring devices
-  * Updating firmware?
-* Network setup
-  * Devices, ports
-* Proxy Hub
+  * Config mode
+  * Firmware updates
+  * Packet utility?
+* Managing your MangeTag network
+  * Network overview
+  * Firewall settings
+  * QoS, etc.
+* Cloud Connectivity
+  * Proxy Hub overview
+* Advanced Setup
+  * Configuring multiple stations from one hub (one controller per station)
+  * Configuring additional displays
 * Troubleshooting
+  * The PC doesn't turn on
+  * The PC boots to a blank screen
+  * The armor doesn't turn on
+  * The armor doesn't connect to the Hub
+  * The armor LEDs don't turn on  
