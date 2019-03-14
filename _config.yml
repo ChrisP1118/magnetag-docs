@@ -19,7 +19,6 @@ masthead_title           : # overrides the website title displayed in the masthe
 defaults:
   - scope:
       path: ""
-      type: docs
     values:
       sidebar:
         nav: "docs"
