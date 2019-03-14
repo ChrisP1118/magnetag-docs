@@ -10,3 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: Getting Started
+    children:
+      - title: "Getting Started"
+        url: /getting-started/
+      - title: "Managing MagneTag Hub Software"
+        url: /managing-hub-software/
