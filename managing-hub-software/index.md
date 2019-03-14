@@ -6,6 +6,8 @@ toc: true
 
 ## Controllers overview
 
+A controller is a view for working with a specific part of the MagneTag Hub.
+
 ## Assigning Devices
 
 ## Managing Users

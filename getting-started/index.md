@@ -6,26 +6,14 @@ toc: true
 
 # Welcome!
 
-Welcome to MagneTag! It's an awesome game, and we hope this guide helps you get your system up and running quickly.
+Welcome to MagneTag! We know you're anxious to play your first game -- this guide will help you get up and running as quickly as possible.
 
 # Identifying Your MagneTag System
 
-# Included Hardware
+Before getting started, take a minute to [get to know your MagneTag system](know-your-system). This will help you ensure you've got all the hardware you need. It'll also help you identify your system -- this will make the rest of the documentation here a lot easier to understand.
 
-# Credentials
+# Let's Play!
 
-You should receive a list of credentials along with your MagneTag system. These credentials are for the various hardware and software
-components that make up your system, including:
-* Wifi Network/Router
-  * Network SSID and password
-  * Router admin username and password
-* PC
-  * Kiosk password
-  * MagneTag (admin) password
-* MagneTag Hub Software
-  * Admin username and password
-  * Manager username and password
+To get started, plug everything in and turn it on.
 
-# General Warning
-
-Your MagneTag equipment is only designed and supported for playing MagneTag games. So don't try to do anything else with them, and don't try to install anything else on the PC.
+Insert the batteries into the armor vests. Be sure to insert them the correct way!
