@@ -1,19 +1,18 @@
-This is the main documentation for the MagneTag Hub system.
+---
+title: "Home"
+excerpt: "This is the main documentation for the MagneTag Hub."
+toc: true
+---
 
-* Getting Started
-  * Your Package
-  * One-Time Setup
-* Components
-  * Overview
-  * Networking Configuration
+Welcome to MagneTag!
 
 ## [Getting Started](getting-started.md)
 
-Get your MagneTag Hub up and running.
+Get your MagneTag system up and running.
 
-## Components
+## [Managing MagneTag Hub Software](managing-hub-software/index.md)
 
-Learn about how the MagneTag Hub works.
+The MagneTag Hub is the software running on the PC that powers the MagneTag system.
 
 ## Troubleshooting
 
