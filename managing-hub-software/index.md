@@ -2,7 +2,6 @@
 title: "Managing MagneTag Hub Software"
 excerpt: "The MagneTag Hub is the software that powers your system."
 toc: true
-layout: single
 ---
 
 ## Controllers overview
