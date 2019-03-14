@@ -22,4 +22,4 @@ defaults:
     values:
       sidebar:
         nav: "docs"
-      layout: single
+      layout: "single"
