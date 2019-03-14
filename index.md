@@ -6,7 +6,7 @@ toc: true
 
 Welcome to MagneTag!
 
-## [Getting Started](getting-started.md)
+## [Getting Started](/getting-started)
 
 Get your MagneTag system up and running.
 
