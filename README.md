@@ -3,10 +3,12 @@ MagneTag Documentation
 
 Basic overview:
 * Getting started
-  * What kind of system do you have?
-  * What's included with your system?
-  * Necessary credentials
-  * This PC is just for MagneTag
+  * Know Your MagneTag System
+    * What kind of system do you have?
+    * What's included with your system?
+    * Necessary credentials
+    * This PC is just for MagneTag
+  * Initial Setup
 * Managing the MagneTag Hub software
   * Modes/controllers overview
     * Device assignments
