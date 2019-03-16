@@ -6,8 +6,12 @@ main:
     url: /getting-started
   - title: "Hub Software"
     url: /managing-hub-software
+  - title: "Devices"
+    url: /managing-devices
   - title: "PC"
     url: /managing-pc
+  - title: "Troubleshooting"
+    url: /troubleshooting
 
 docs:
   - title: Getting Started
@@ -30,9 +34,21 @@ docs:
         url: /managing-hub-software/admin-controller
       - title: "Match Types"
         url: /managing-hub-software/match-types
+  - title: Managing Devices
+    children:
+      - title: "Managing MagneTag Devices"
+        url: /managing-devices/
+      - title: "Configuring Devices"
+        url: /managing-devices/configuring-devices
   - title: Managing MagneTag PC
     children:
       - title: "Managing MagneTag PC"
         url: /managing-pc/
       - title: "Hub Shell"
         url: /managing-pc/hub-shell
+      - title: "Administering PC"
+        url: /managing-pc/administering-pc
+  - title: Troubleshooting
+    children:
+      - title: "Troubleshooting"
+        url: /troubleshooting/
