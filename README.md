@@ -26,6 +26,7 @@ Basic overview:
   * Hub Shell
     * Exiting
     * Rebooting
+    * Credentials
   * Logging in as admin
   * Managing certificates
   * Managing firewall settings
