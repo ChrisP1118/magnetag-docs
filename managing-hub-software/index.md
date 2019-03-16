@@ -11,7 +11,7 @@ The MagneTag Hub is the software that powers the MagneTag system.
 A controller is a view for working with a specific part of the MagneTag Hub or for working in a specific way.
 
 There are four main controller types, each with a different purpose. These are:
-* **Self-Service (Kiosk) Controller**: The self-service controller lets games run without a staff attendant. It's designed to work with a touch screen, allowing customers to start their own games.
+* **[Self-Service (Kiosk) Controller](self-service-controller)**: The self-service controller lets games run without a staff attendant. It's designed to work with a touch screen, allowing customers to start their own games.
 * **Full-Service (FEC) Controller**: The full-service controller is designed for use in a staffed environment. The staffer uses the controller to operate games.
 * **Tournament Controller**: The tournament controller manages tournaments. It creates a seeded single-elimination bracket, keeps track of players, and manages game play.
 * **Admin Controller**: The admin controller is for administering the system. This includes configuring the Hub, configuring armor vests and other devices, managing users, and basic troubleshooting.
