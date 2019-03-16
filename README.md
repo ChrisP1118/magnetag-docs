@@ -15,13 +15,18 @@ Basic overview:
     * Managing users
     * Managing multiple stations (each with own controller/devices)
   * Kiosk mode
+    * Adding card swipe/coin-op
   * FEC mode
   * Admin mode
   * Tournament mode
+  * Using multiple displays
+  * Setting up multiple stations
+  * Software updates
 * Managing your PC
   * Hub Shell
     * Exiting
     * Rebooting
+    * Credentials
   * Logging in as admin
   * Managing certificates
   * Managing firewall settings
@@ -35,9 +40,6 @@ Basic overview:
   * QoS, etc.
 * Cloud Connectivity
   * Proxy Hub overview
-* Advanced Setup
-  * Configuring multiple stations from one hub (one controller per station)
-  * Configuring additional displays
 * Troubleshooting
   * The PC doesn't turn on
   * The PC boots to a blank screen

@@ -1,10 +1,8 @@
 ---
-title: "Know Your System"
+title: "Know Your MagneTag System"
 excerpt: "Know the basics about your MagneTag system"
 toc: true
 ---
-
-# Identifying Your MagneTag System
 
 MagneTag systems come in several shapes and forms. This documentation will make reference to the different types of systems listed below -- make sure you know which one you have. This will make it a lot easier to follow and understand the rest of the documentation.
 
