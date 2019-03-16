@@ -15,10 +15,10 @@ Basic overview:
     * Managing users
     * Managing multiple stations (each with own controller/devices)
   * Kiosk mode
+    * Adding card swipe/coin-op
   * FEC mode
   * Admin mode
   * Tournament mode
-  * Adding card swipe/coin-op
   * Using multiple displays
   * Setting up multiple stations
   * Software updates
