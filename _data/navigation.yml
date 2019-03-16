@@ -4,12 +4,10 @@ main:
     url: /
   - title: "Getting Started"
     url: /getting-started
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Hub Software"
+    url: /managing-hub-software
+  - title: "PC"
+    url: /managing-pc
 
 docs:
   - title: Getting Started
@@ -18,7 +16,23 @@ docs:
         url: /getting-started/
       - title: "Know Your System"
         url: /getting-started/know-your-system
-  - title: Managing MagmeTag Hub Software
+  - title: Managing MagneTag Hub Software
     children:
-      - title: "Managing MagmeTag Hub Software"
+      - title: "Managing MagneTag Hub Software"
         url: /managing-hub-software/
+      - title: "Self-Service (Kiosk) Controller"
+        url: /managing-hub-software/self-service-controller
+      - title: "Full-Service (Kiosk) Controller"
+        url: /managing-hub-software/full-service-controller
+      - title: "Tournament Controller"
+        url: /managing-hub-software/tournament-controller
+      - title: "Admin Controller"
+        url: /managing-hub-software/admin-controller
+      - title: "Match Types"
+        url: /managing-hub-software/match-types
+  - title: Managing MagneTag PC
+    children:
+      - title: "Managing MagneTag PC"
+        url: /managing-pc/
+      - title: "Hub Shell"
+        url: /managing-pc/hub-shell
