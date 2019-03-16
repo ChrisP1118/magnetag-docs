@@ -16,5 +16,9 @@ docs:
     children:
       - title: "Getting Started"
         url: /getting-started/
-      - title: "Managing MagneTag Hub Software"
+      - title: "Know Your System"
+        url: /getting-started/know-your-system
+  - title: Managing MagmeTag Hub Software
+    children:
+      - title: "Managing MagmeTag Hub Software"
         url: /managing-hub-software/
