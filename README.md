@@ -18,6 +18,10 @@ Basic overview:
   * FEC mode
   * Admin mode
   * Tournament mode
+  * Adding card swipe/coin-op
+  * Using multiple displays
+  * Setting up multiple stations
+  * Software updates
 * Managing your PC
   * Hub Shell
     * Exiting
@@ -35,9 +39,6 @@ Basic overview:
   * QoS, etc.
 * Cloud Connectivity
   * Proxy Hub overview
-* Advanced Setup
-  * Configuring multiple stations from one hub (one controller per station)
-  * Configuring additional displays
 * Troubleshooting
   * The PC doesn't turn on
   * The PC boots to a blank screen
