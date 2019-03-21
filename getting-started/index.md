@@ -18,3 +18,10 @@ Insert the batteries into the armor vests. Power banks need to be turned on firs
 ![batteries correctly inserted](powerbank.jpg)
 
 It might take a few minutes for everything to turn on. Once it's all on, your armor vests should light up. The screen on the PC should show a video of people playing MagneTag.
+
+The lights on the armor will indicate the connection status of each device
+
+* Solid white lights - the vests are trying to connect to the network.  If this status persists for more than 60 seconds, follow [these instructions](configure-network.md) to edit the logon credentials.
+* Sweeping white lights - the vests are connected, but not assigned to a controller. An admin needs to log into the software and assign the devices using [these instructions](assign-device.md)
+* Sweeping colored lights - the device is connected and ready to start a game
+* Pulsing colored lights - the device is actively in a game
