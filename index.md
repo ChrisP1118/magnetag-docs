@@ -14,7 +14,7 @@ Get your MagneTag system up and running.
 
 The MagneTag Hub is the software running on the PC that powers the MagneTag system.
 
-## Troubleshooting
+## [Troubleshooting](troubleshooting)
 
 Troubleshoot issues with your MagneTag Hub.
 
