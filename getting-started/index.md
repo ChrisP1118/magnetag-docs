@@ -13,7 +13,7 @@ Before getting started, take a minute to [get to know your MagneTag system](know
 # Turn it on
 To get started, plug everything in and turn it on.
 
-Insert the batteries into the armor vests. Power banks need to be turned on first; there is a small button near the charging port.  
+Insert the batteries into the armor vests. Power banks need to be turned on first; there is a small button near the charging port. When you press the button on the power bank, the color will indicate how charge is left (green - full charge, yellow - some charge, red - needs to charge)
 
 ![batteries correctly inserted](powerbank.jpg)
 
@@ -27,3 +27,8 @@ The lights on the armor will indicate the connection status of each device
 * Pulsing colored lights - the device is actively in a game
 
 ![Good to Go](kiosk_img.jpg)
+
+The computer display will show an "Uh-Oh" message until the armor connects to the network.  Once the armor is connected, you can use the touch screen to navigate the game. In self-service mode, the system operation is designed to be very clear. Follow the on-screen instructions.
+
+# Starting a game in Full-Service Mode
+
