@@ -25,3 +25,5 @@ The lights on the armor will indicate the connection status of each device
 * Sweeping white lights - the vests are connected, but not assigned to a controller. An admin needs to log into the software and assign the devices using [these instructions](assign-device.md)
 * Sweeping colored lights - the device is connected and ready to start a game
 * Pulsing colored lights - the device is actively in a game
+
+![Good to Go](kiosk_img.jpg)
