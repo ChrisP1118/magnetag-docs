@@ -15,6 +15,6 @@ To get started, plug everything in and turn it on.
 
 Insert the batteries into the armor vests. Power banks need to be turned on first; there is a small button near the charging port.  
 
-![batteries correctly inserted](powerbank.jpg)
+![batteries correctly inserted](powerbank_crop.jpg)
 
 It might take a few minutes for everything to turn on. Once it's all on, your armor vests should light up. The screen on the PC should show a video of people playing MagneTag.
