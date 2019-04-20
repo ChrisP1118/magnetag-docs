@@ -26,7 +26,7 @@ docs:
         url: /managing-hub-software/
       - title: "Self-Service (Kiosk) Controller"
         url: /managing-hub-software/self-service-controller
-      - title: "Full-Service (Kiosk) Controller"
+      - title: "Full-Service (FEC) Controller"
         url: /managing-hub-software/full-service-controller
       - title: "Tournament Controller"
         url: /managing-hub-software/tournament-controller
