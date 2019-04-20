@@ -1,6 +1,8 @@
 # magnetag-docs
 MagneTag Documentation
 
+https://docs.magnetag.com
+
 Basic overview:
 * Getting started
   * Know Your MagneTag System
