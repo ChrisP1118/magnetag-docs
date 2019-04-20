@@ -30,5 +30,10 @@ The lights on the armor will indicate the connection status of each device
 
 The computer display will show an "Uh-Oh" message until the armor connects to the network.  Once the armor is connected, you can use the touch screen to navigate the game. In self-service mode, the system operation is designed to be very clear. Follow the on-screen instructions.
 
-# Starting a game in Full-Service Mode
+# Have some fun!
 
+You're ready to play some games!
+
+Choose the appropriate guide for your system:
+* [Run Self-Service (Kiosk) Mode](run-kiosk-mode.md)
+* [Run Full-Service (FEC) Mode](run-fec-mode.md)
