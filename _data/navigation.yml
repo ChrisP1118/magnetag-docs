@@ -20,6 +20,10 @@ docs:
         url: /getting-started/
       - title: "Know Your System"
         url: /getting-started/know-your-system
+      - title: "Run Self-Service (Kiosk) Mode"
+        url: /getting-started/run-kiosk-mode
+      - title: "Run Full-Service (FEC) Mode"
+        url: /getting-started/run-fec-mode
   - title: Managing MagneTag Hub Software
     children:
       - title: "Managing MagneTag Hub Software"
