@@ -19,7 +19,7 @@ docs:
       - title: "Getting Started"
         url: /getting-started/
       - title: "Know Your System"
-        url: /getting-started/know-your-system/
+        url: /getting-started/know-your-system
       - title: "Operating Self-Service (Kiosk) Mode"
         url: /getting-started/operating-kiosk-mode
       - title: "Operating Full-Service (FEC) Mode"
@@ -50,6 +50,8 @@ docs:
         url: /managing-pc/hub-shell
       - title: "Administering PC"
         url: /managing-pc/administering-pc
+  - title: Managing the MagneTag Network
+    url: /managing-network
   - title: Troubleshooting
     children:
       - title: "Troubleshooting"
