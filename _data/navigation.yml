@@ -19,7 +19,7 @@ docs:
       - title: "Getting Started"
         url: /getting-started/
       - title: "Know Your System"
-        url: /getting-started/know-your-system
+        url: getting-started/know-your-system
       - title: "Run Self-Service (Kiosk) Mode"
         url: /getting-started/run-kiosk-mode
       - title: "Run Full-Service (FEC) Mode"
@@ -36,8 +36,6 @@ docs:
         url: /managing-hub-software/tournament-controller
       - title: "Admin Controller"
         url: /managing-hub-software/admin-controller
-      - title: "Match Types"
-        url: /managing-hub-software/match-types
   - title: Managing Devices
     children:
       - title: "Managing MagneTag Devices"
