@@ -50,6 +50,8 @@ docs:
         url: /managing-pc/hub-shell
       - title: "Administering PC"
         url: /managing-pc/administering-pc
+  - title: Managing the MagneTag Network
+    url: /managing-network
   - title: Troubleshooting
     children:
       - title: "Troubleshooting"
