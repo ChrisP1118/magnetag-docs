@@ -34,6 +34,6 @@ The computer display will show an "Uh-Oh" message until the armor connects to th
 
 You're ready to play some games!
 
-Choose the appropriate guide for your system:
+Choose the appropriate guide for your system. This will walk you through the basic steps involved in operating the game:
 * [Run Self-Service (Kiosk) Mode](run-kiosk-mode.md)
 * [Run Full-Service (FEC) Mode](run-fec-mode.md)
