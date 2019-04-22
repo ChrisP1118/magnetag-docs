@@ -29,5 +29,5 @@ If the armor vests don't light up or the PC doesn't start playing a video, refer
 Now that the system is online, you're ready to play some games!
 
 Choose the appropriate guide for your system. This will walk you through the basic steps involved in operating the game:
-* [Run Self-Service (Kiosk) Mode](run-kiosk-mode.md)
-* [Run Full-Service (FEC) Mode](run-fec-mode.md)
+* [Run Self-Service (Kiosk) Mode](operating-kiosk-mode.md)
+* [Run Full-Service (FEC) Mode](operating-fec-mode.md)
