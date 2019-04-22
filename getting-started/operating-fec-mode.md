@@ -97,3 +97,15 @@ This is the amount of time a team gains back when their opponent's clock is acti
 #### Maximum Health Time
 
 This is the maximum amount of time a team can have. If "Regenerating Health Time" is set to 0, this setting doesn't really matter.
+
+## Notes
+
+After several minutes of inactivity, the list of teams and the settings panel disappear from the screen. Just touch/click anywhere for them to reappear. The list of teams and settings panel can also be hidden by touching/clicking the "Hide Options" button.
+
+For users with access to other controllers, there's a button for "Change Controller". This lets the operator switch to a different controller, like FEC/Kiosk mode or a tournament.
+
+If running inside the MagneTag Shell, there's a "Shut Down" button with three options:
+* **Log Off**: Closes the shell and logs out the current Windows user. This should only be used when needing to administer the PC.
+* **Shut Down**: Closes the shell and turns off the PC.
+* **Reboot**: Closes the shell and reboots the PC.
+
