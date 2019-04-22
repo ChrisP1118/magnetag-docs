@@ -1,6 +1,6 @@
 ---
-title: "Run FEC Mode"
-excerpt: "Run your MagneTag system in full-service (FEC) mode"
+title: "Operating FEC Mode"
+excerpt: "Operating your MagneTag system in full-service (FEC) mode"
 toc: true
 ---
 
@@ -43,3 +43,43 @@ last team with remaining health wins. This type of game can accommodate a wide r
 * **Time Tag** is an intense, countdown-based game. Each team starts with a certain amount of time on the clock. When they're hit,
 their clock starts running down. When they hit their opponent, their clock stops running and their opponent's clock starts counting
 down.
+
+## Number of Games
+
+MagneTag games are organized into matches, with the same players playing multiple games in a match. This specifies the number of games in a match. When a game is over, play automatically advances to the next game in the match.
+
+## Play All Games
+
+If there is more than one game in a match, this sets whether or not to play all the games after someone has won a majority of games. For instance, if there are three games in a match, and the red team wins the first two, this sets whether or not to play a third game.
+
+## Audio Set
+
+The audio set controls the audio and taunts used during the game. There are two modes:
+* **Kids** provides family-friendly commentary during games.
+* **Adult** taunts are still clean, but slightly harsher.
+
+## Countdown Time
+
+This sets the countdown time before each game in the match starts.
+
+## Maximum Time
+
+This sets the maximum length of a game. Normally a game ends when all teams but one are out of health, but this will cap the length of games.
+
+## Double Hit Delay
+
+The armor vests can be sensitive. If a hit is registered multiple times in a very short period of time, only one hit is registered. This sets the period of time during which only one hit will be counted.
+
+## Combat Game Options
+
+### Starting Health
+
+### Health Per Hit
+
+## Time Tag Options
+
+### Starting Health
+
+### Regenerating Health Time
+
+### Maximum Health Time
