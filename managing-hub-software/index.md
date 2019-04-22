@@ -20,3 +20,4 @@ There are four main controller types, each with a different purpose. These are:
 
 Each armor vest (and any other devices used for game play) must be assigned to a specific controller or controllers. This allows a single MagneTag Hub to run multiple game stations. For instance, there may be two separate full-service controllers, each with four armor vests assigned to them. This would allow two different sets of games to be operated simultaneously, with each one having up to four players.
 
+Devices can also be used among multiple controllers. For example, you could have two full-service controllers that share eight armor vests. This would allow two separate matches at a time, but also allow a single match with eight players.
