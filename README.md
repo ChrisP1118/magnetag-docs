@@ -13,6 +13,7 @@ Basic overview:
   * Initial Setup
 * Managing the MagneTag Hub software
   * Modes/controllers overview
+    * Configuration
     * Device assignments
     * Managing users
     * Managing multiple stations (each with own controller/devices)
