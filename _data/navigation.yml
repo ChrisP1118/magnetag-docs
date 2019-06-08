@@ -36,6 +36,8 @@ docs:
         url: /managing-hub-software/tournament-controller
       - title: "Admin Controller"
         url: /managing-hub-software/admin-controller
+      - title: "Configuration Options"
+        url: /managing-hub-software/configuration-options
   - title: Managing Devices
     children:
       - title: "Managing MagneTag Devices"
