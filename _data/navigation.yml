@@ -28,6 +28,8 @@ docs:
     children:
       - title: "Installing MagneTag Hub Software"
         url: /installing-hub-software/
+      - title: "Troubleshooting MagneTag Hub Installations"
+        url: /installing-hub-software/troubleshooting.md
   - title: Managing MagneTag Hub Software
     children:
       - title: "Managing MagneTag Hub Software"

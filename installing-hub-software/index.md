@@ -6,6 +6,8 @@ toc: true
 
 ## Installation Overview
 
+Depending on your needs, you may need to install the MagneTag Hub on your own computer.
+
 There are two components to the system:
 * MagneTag Hub: This is the MagneTag software that powers your system.
 * SQL Server Express: This is a database server that's used by the MagneTag Hub.
