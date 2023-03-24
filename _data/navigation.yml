@@ -24,6 +24,10 @@ docs:
         url: /getting-started/operating-kiosk-mode
       - title: "Operating Full-Service (FEC) Mode"
         url: /getting-started/operating-fec-mode
+  - title: Installing MagneTag Hub Software
+    children:
+      - title: "Installing MagneTag Hub Software"
+        url: /installing-hub-software/
   - title: Managing MagneTag Hub Software
     children:
       - title: "Managing MagneTag Hub Software"
@@ -36,6 +40,8 @@ docs:
         url: /managing-hub-software/tournament-controller
       - title: "Admin Controller"
         url: /managing-hub-software/admin-controller
+      - title: "Configuration Options"
+        url: /managing-hub-software/configuration-options
   - title: Managing Devices
     children:
       - title: "Managing MagneTag Devices"

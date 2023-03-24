@@ -7,7 +7,7 @@ toc: true
 MagneTag's FEC mode is designed to be full-service. This means it works best when there's a dedicated person staffing the game,
 adjusting the game is necessary. There are a lot more game play options in full-service mode than self-service (kiosk) mode.
 
-# Players and Teams
+## Players and Teams
 
 In full-service mode, each player corresponds to a specific vest. We recommend adding labels to the physical vests that match the 
 names displayed on screen for each vest -- this makes it a lot easier to get players organized into teams.
@@ -31,11 +31,11 @@ There's also a "Clear All" that will remove all players from each team.
 If a vest disconnects (for instance, if the battery dies or it goes out of range of the system), it'll automatically be moved to the list
 of unallocated players.
 
-# Match Settings
+## Match Settings
 
 The panel on the right shows the different settings for the upcoming match. Some of these settings vary depending on the type of match.
 
-## Match Type
+### Match Type
 
 There are currently two types of matches:
 * **Combat** is the classic MagneTag game. Each team starts with a certain amount of health and loses health each time they're hit. The
@@ -44,42 +44,68 @@ last team with remaining health wins. This type of game can accommodate a wide r
 their clock starts running down. When they hit their opponent, their clock stops running and their opponent's clock starts counting
 down.
 
-## Number of Games
+### Number of Games
 
 MagneTag games are organized into matches, with the same players playing multiple games in a match. This specifies the number of games in a match. When a game is over, play automatically advances to the next game in the match.
 
-## Play All Games
+### Play All Games
 
 If there is more than one game in a match, this sets whether or not to play all the games after someone has won a majority of games. For instance, if there are three games in a match, and the red team wins the first two, this sets whether or not to play a third game.
 
-## Audio Set
+### Audio Set
 
 The audio set controls the audio and taunts used during the game. There are two modes:
 * **Kids** provides family-friendly commentary during games.
 * **Adult** taunts are still clean, but slightly harsher.
 
-## Countdown Time
+### Countdown Time
 
 This sets the countdown time before each game in the match starts.
 
-## Maximum Time
+### Maximum Time
 
 This sets the maximum length of a game. Normally a game ends when all teams but one are out of health, but this will cap the length of games.
 
-## Double Hit Delay
+### Double Hit Delay
 
 The armor vests can be sensitive. If a hit is registered multiple times in a very short period of time, only one hit is registered. This sets the period of time during which only one hit will be counted.
 
-## Combat Game Options
+### Combat Game Options
 
-### Starting Health
+These options are specific to combat matches.
 
-### Health Per Hit
+#### Starting Health
 
-## Time Tag Options
+This is the health that each team starts with. With more players, we recommend increasing the starting health.
 
-### Starting Health
+#### Health Per Hit
 
-### Regenerating Health Time
+This is the health that a team loses every time a player is hit. We recommend keeping this at 1.
 
-### Maximum Health Time
+### Time Tag Options
+
+These options are specific to time tag matches.
+
+#### Starting Health
+
+This is the amount of time each team starts with.
+
+#### Regenerating Health Time
+
+This is the amount of time a team gains back when their opponent's clock is active and their opponent is hit again. This allows a team to win back lost time.
+
+#### Maximum Health Time
+
+This is the maximum amount of time a team can have. If "Regenerating Health Time" is set to 0, this setting doesn't really matter.
+
+## Notes
+
+After several minutes of inactivity, the list of teams and the settings panel disappear from the screen. Just touch/click anywhere for them to reappear. The list of teams and settings panel can also be hidden by touching/clicking the "Hide Options" button.
+
+For users with access to other controllers, there's a button for "Change Controller". This lets the operator switch to a different controller, like FEC/Kiosk mode or a tournament.
+
+If running inside the MagneTag Shell, there's a "Shut Down" button with three options:
+* **Log Off**: Closes the shell and logs out the current Windows user. This should only be used when needing to administer the PC.
+* **Shut Down**: Closes the shell and turns off the PC.
+* **Reboot**: Closes the shell and reboots the PC.
+
